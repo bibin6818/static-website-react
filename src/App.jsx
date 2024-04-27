@@ -49,7 +49,7 @@ function App() {
       <div style={{ width: '100%', height: '812px', backgroundColor: '#FDF6E9' }}>
         <div style={{ position: 'absolute', left: '159px', top: '284px', width: '870px', height: '286px', backgroundColor: '#FDF6E9' }}>
           <p style={{ position: 'absolute', left: '0', top: '0', color: '#EC9706', fontSize: '24px' }}>We are Hideva Group</p>
-          <p style={{ position: 'absolute', left: '0', top: '50px', fontWeight: 'bold', fontSize: '75px', color: 'black' }}>Design and Build Contractors</p>
+          <p style={{ position: 'absolute', left: '0', top: '50px', fontWeight: 'bold', fontSize: '75px', color: 'black' }}>Design and Build Contractor</p>
           <p style={{ position: 'absolute', left: '0', top: '300px', fontSize: '24px', color: 'black' }}>With unwavering commitment and expertise, we create spaces that stand as a testament to our dedication and craftsmanship.With unwavering commitment and expertise, we create spaces that stand as a testament to our dedication and craftsmanship.</p>
           <button style={{
             position: 'absolute',
