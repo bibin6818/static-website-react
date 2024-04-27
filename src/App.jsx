@@ -49,7 +49,7 @@ function App() {
       <div style={{ width: '100%', height: '812px', backgroundColor: '#FDF6E9' }}>
         <div style={{ position: 'absolute', left: '159px', top: '284px', width: '870px', height: '286px', backgroundColor: '#FDF6E9' }}>
           <p style={{ position: 'absolute', left: '0', top: '0', color: '#EC9706', fontSize: '24px' }}>We are Hideva Group</p>
-          <p style={{ position: 'absolute', left: '0', top: '50px', fontWeight: 'bold', fontSize: '75px', color: 'black' }}>Design and Build Contractor</p>
+          <p style={{ position: 'absolute', left: '0', top: '50px', fontWeight: 'bold', fontSize: '75px', color: 'black' }}>Design and Build Contractors</p>
           <p style={{ position: 'absolute', left: '0', top: '300px', fontSize: '24px', color: 'black' }}>With unwavering commitment and expertise, we create spaces that stand as a testament to our dedication and craftsmanship.With unwavering commitment and expertise, we create spaces that stand as a testament to our dedication and craftsmanship.</p>
           <button style={{
             position: 'absolute',
@@ -80,7 +80,7 @@ function App() {
           </div>
           <div className="parent-div">
             <div className="image-div">
-              <img className='img' src="..\src\assets\Rectangle 6.png" alt="" />
+              <img className='img' src=".\src\assets\Rectangle 6.png" alt="" />
             </div>
           </div>
         </div>
@@ -88,7 +88,7 @@ function App() {
 
       <div style={{ display: 'flex', justifyContent: 'space-between' }}>
         <div style={{ width: '30%', margin: '40px' }}>
-          <img src="..\src\assets\Rectangle 21.png" alt="" style={{ width: '429', height: '355px' }} />
+          <img src=".\src\assets\Rectangle 21.png" alt="" style={{ width: '429', height: '355px' }} />
           <p style={{ fontSize: '18px', fontWeight: 'bold', color: 'black' }}>24 October 2022</p>
           <p style={{ fontSize: '24px', color: '#EC9706' }}>What are the processes involved in putting up a building?</p>
           <p style={{ fontSize: '18px', fontWeight: 'semi-bold' }}>The process of putting up a building is usually done in phases and understanding this phases is important to a client in terms...</p>
@@ -97,7 +97,7 @@ function App() {
 
 
         <div style={{ width: '30%', margin: '40px' }}>
-          <img src="..\src\assets\Rectangle 28.png" alt="" style={{ width: '429', height: '355px' }} />
+          <img src=".\src\assets\Rectangle 28.png" alt="" style={{ width: '429', height: '355px' }} />
           <p style={{ fontSize: '18px', fontWeight: 'bold', color: 'black' }}>3 November 2022</p>
           <p style={{ fontSize: '24px', color: '#EC9706' }}>What is Minimalist Architecture and Minimal Design Space?</p>
           <p style={{ fontSize: '18px', fontWeight: 'semi-bold' }}>Minimalism in architecture is a form that can be characterized using various aspects with the sole aim of reducing clutter and...</p>
@@ -106,7 +106,7 @@ function App() {
 
 
         <div style={{ width: '30%', margin: '40px' }}>
-          <img src="..\src\assets\Rectangle 29.png" alt="" style={{ width: '429px', height: '355px' }} />
+          <img src=".\src\assets\Rectangle 29.png" alt="" style={{ width: '429px', height: '355px' }} />
           <p style={{ fontSize: '18px', fontWeight: 'bold', color: 'black' }}>5 January 2023</p>
           <p style={{ fontSize: '24px', color: '#EC9706' }}>Integrating Technology for Modern Construction</p>
           <p style={{ fontSize: '18px', fontWeight: 'semi-bold' }}>In the realm of modern construction, the integration of smart home innovations has emerged as a transformative force...</p>
